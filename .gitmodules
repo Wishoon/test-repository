@@ -1,0 +1,4 @@
+[submodule "src/main/resources/backend-secret"]
+	path = src/main/resources/backend-secret
+	url = https://github.com/woowacourse-kkogkkog/backend-secret.git
+	branch = main
